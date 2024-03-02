@@ -1,0 +1,8 @@
+#+TITLE: Project Euler Solutions
+#+AUTHOR: Michael Espeña <michael.espena.public@gmail.com>
+#+DATE: 2024-03-01 14:25 
+#+DESCRIPTION: Barely working solutions to Project Euler challenges
+
+* About
+
+This repository contains barely working solutions to the Project Euler challenges.
