@@ -13,5 +13,6 @@ def series_solution():
     return sum_multiples_of(3) + sum_multiples_of(5) - sum_multiples_of(15)
 
 
-print(series_solution())
-print(generator_solution())
+if __name__ == "__main__":
+    print(series_solution())
+    print(generator_solution())
