@@ -2,7 +2,8 @@ def sumOfSquares(n: Int): Int =
   n * (n + 1) * (2 * n + 1) / 6
 
 def squareOfSum(n: Int): Int =
-  math.pow(n * (n + 1) / 2,  2).asInstanceOf[Int]
+  val arithmeticSum = n * (n + 1) / 2
+  arithmeticSum * arithmeticSum
 
 def seriesSolution(n: Int): Int =
   squareOfSum(n) - sumOfSquares(n)
