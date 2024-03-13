@@ -1,0 +1,10 @@
+#+TITLE: Self Powers
+#+AUTHOR: Michael Espeña <michael.espena.public@gmail.com>
+#+DATE: 2024-03-13 22:08 
+#+DESCRIPTION: Problem 48: Self Powers
+
+* Problem 48
+
+The series, $1^1 + 2^2 + 3^3 + \dots + 10^{10} = 10405071317$.
+
+Find the last ten digits of the series, $1^1 + 2^2 + 3^3 + \dots + 1000^{1000}$.
